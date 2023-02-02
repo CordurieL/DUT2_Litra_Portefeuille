@@ -1,5 +1,12 @@
 # Litra
 
+## Équipe
+- Michel Grolet
+- Gabin Hemmerle
+- Antoine Chevaleyre 
+- Julien Sacquard
+- Lucas Cordurié
+
 Saas de paiement décentralisé pour les événements locaux.
 
 ## Lien démo
